@@ -6,3 +6,5 @@ Tesla
 Mercedes 5500
 Kia Optima
 Lexus GX470
+Kia Optima
+Honda Civic

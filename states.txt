@@ -5,3 +5,6 @@ Florida
 New York
 Texas
 California
+Ohio
+Arizona
+Kansas
